@@ -1,12 +1,4 @@
-## Hi there 👋
+# Unleash the Power of Control for Your Business
+At Control Origins, our mission is to empower organizations with innovative technology solutions that drive value creation and enable them to achieve their business goals. We are committed to delivering exceptional results by leveraging cutting-edge technologies, industry expertise, and best practice frameworks. Through our comprehensive approach, we help businesses streamline their operations, align with regulatory requirements, and stay ahead in today's rapidly evolving digital landscape.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Control Origins - LinkedIn](https://www.linkedin.com/company/control-origins "ControlOrigins LinkedIn")
